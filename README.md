@@ -74,6 +74,10 @@ pipeline. Performance on real experimental data — where device geometry,
 temperature, trap dynamics, and non-uniform irradiation introduce additional
 variance — would differ and require retraining on measured datasets.
 
+<img width="4161" height="1759" alt="rf_prediction_results" src="https://github.com/user-attachments/assets/454cabd9-876f-4cbe-89ee-064a370e5e75" />
+<img width="2370" height="1466" alt="iv_curves_sample" src="https://github.com/user-attachments/assets/0c53ba51-5728-4b16-a160-0eee59e2d702" />
+
+
 ## Repository structure
 
 ```
