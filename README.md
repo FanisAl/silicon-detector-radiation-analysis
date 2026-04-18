@@ -138,4 +138,4 @@ python live_monitor.py
 Fanis Alexakis  
 MSc Microsystems & Nanodevices, NTUA  
 BSc Physics, NKUA  
-fanisalexakis64@gmail.com
+
