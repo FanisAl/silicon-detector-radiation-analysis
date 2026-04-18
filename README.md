@@ -21,7 +21,7 @@ maintenance of detector systems.
 ### 1. Baseline data
 
 A real I-V curve from an un-irradiated silicon sensor was used as the physical
-baseline (source: Zenodo). The dataset provides leakage current density [nA/cm²]
+baseline (source: Setälä et al., 2024). The dataset provides leakage current density [nA/cm²]
 as a function of reverse bias voltage (0–100 V).
 
 ### 2. Physics-informed data augmentation
