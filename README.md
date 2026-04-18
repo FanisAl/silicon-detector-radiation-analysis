@@ -127,10 +127,11 @@ python live_monitor.py
    *Rep. Prog. Phys.*, 70, 493.
 3. CERN RD50 Collaboration. Development of radiation hard semiconductor
    devices for very high luminosity colliders. https://cern.ch/rd50
+4. Setälä, O. et al. (2024). Elimination of dead layer in silicon particle detectors via induced electric field based charge collection [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.13683410
 
 ## Author
 
-Fanis Spyridon Alexakis  
+Fanis Alexakis  
 MSc Microsystems & Nanodevices, NTUA  
 BSc Physics, NKUA  
 fanisalexakis64@gmail.com
