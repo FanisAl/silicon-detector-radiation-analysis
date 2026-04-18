@@ -5,10 +5,11 @@ Physics-informed data augmentation for silicon radiation detector simulation.
 
 Baseline
 --------
-Real un-irradiated I-V data digitised from a published silicon sensor
-measurement (Zenodo repository). The baseline describes the leakage current
-density [nA/cm^2] as a function of reverse bias voltage [V].
-
+ --- DATA SOURCE ATTRIBUTION ---
+ Baseline un-irradiated I-V data obtained from:
+ Setälä, O. et al. (2024), Zenodo, https://doi.org/10.5281/zenodo.13683410
+ Used under CC BY 4.0 License.
+ -------------------------------
 Augmentation model
 ------------------
 Radiation damage increases leakage current according to:
