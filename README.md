@@ -144,7 +144,7 @@ legacy sensor data.
 ```
 silicon-detector-radiation-analysis/
 ├── data/
-│   ├── Figure2bIV.csv                 # Baseline: Bhatt et al. 2024 (Zenodo)
+│   ├── Figure2bIV.csv                 # Baseline: Setälä, Olli et al. 2024 (Zenodo)
 │   ├── Default Dataset.csv            # Real data: Riedler 1998 / Chen 2016
 │   ├── Default Dataset_2018.csv       # Real data: Scharf 2018
 │   └── ml_ready_detector_data_v2.csv  # Augmented synthetic dataset (5000 sensors)
@@ -209,7 +209,7 @@ data quality throughout the detector lifetime.
 
 ## References
 
-1. Bhatt, H. et al. (2024). Elimination of dead layer in silicon particle
+1.Setälä, Olli et al. (2024). Elimination of dead layer in silicon particle
    detectors via induced electric field based charge collection.
    *Zenodo.* https://doi.org/10.5281/zenodo.13683410 (CC BY 4.0)
    *(Baseline I-V data)*
@@ -248,6 +248,6 @@ data quality throughout the detector lifetime.
 
 ## Author
 
-Fanis Spyridon Alexakis
+Fanis Alexakis
 MSc Microsystems & Nanodevices, NTUA | BSc Physics, NKUA
 fanisalexakis64@gmail.com | github.com/FanisAl
