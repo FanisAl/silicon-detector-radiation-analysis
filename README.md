@@ -214,8 +214,8 @@ data quality throughout the detector lifetime.
    *(Baseline I-V data)*
 
 2. Riedler, P. (1998). *Radiation Damage Effects and Performance of Silicon
-   Strip Detectors.* PhD Dissertation, Universität Wien. CERN/AT/98-22.
-   *(Validation dataset — test.py)*
+   Strip Detectorsusing LHC Readout Electronics.* PhD Dissertation, Universität Wien. CERN/AT/98-22.
+   *(Validation dataset — test_1998_data.py)*
 
 3. Chen, J. (2016). *The Characterization of Thin (50 µm and 75 µm)
    Silicon Detectors.* BSc Thesis in Applied Physics, University of
