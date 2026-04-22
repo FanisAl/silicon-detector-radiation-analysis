@@ -27,7 +27,7 @@ independent published experimental datasets spanning 1998–2018.
 
 An un-irradiated silicon sensor I-V curve was used as the physical baseline:
 
-> Bhatt, H. et al. (2024). *Elimination of dead layer in silicon particle
+> Setälä, Olli et al. (2024). *Elimination of dead layer in silicon particle
 > detectors via induced electric field based charge collection.*
 > Zenodo. https://doi.org/10.5281/zenodo.13683410 (CC BY 4.0)
 
