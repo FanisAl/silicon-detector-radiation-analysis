@@ -147,11 +147,10 @@ silicon-detector-radiation-analysis/
 │   ├── Figure2bIV.csv                 # Baseline: Setälä, Olli et al. 2024 (Zenodo)
 │   ├── Default Dataset.csv            # Real data: Riedler 1998 / Chen 2016
 │   ├── Default Dataset_2018.csv       # Real data: Scharf 2018
-│   └── ml_ready_detector_data_v2.csv  # Augmented synthetic dataset (5000 sensors)
 ├── generate_data.py       # Physics-informed data augmentation (v2)
 ├── train_model.py         # Normalisation, feature extraction, model training
 ├── live_monitor.py        # Simulated real-time monitoring system
-├── test.py                # Real-data validation: Riedler (1998)
+├── test_1998_data.py                # Real-data validation: Riedler (1998)
 ├── test_2016_data.py      # Real-data validation: Chen, UCSC (2016)
 ├── test_2018_data.py      # Real-data validation: Scharf (2018)
 ├── rf_detector_brain_normalized.pkl  # Trained model
